@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 https://e111.neoistheone.online:9311/v5/megvmsM0kMDn_ITrTpPoyg/1763002825/2c6e86627f88f8d3b74df2e27a303fcb/7NEYZipN6HdPmd4CfmW5pA/1763013505/live/vx-origin/sd-expwild_720/chunks.m3u8
