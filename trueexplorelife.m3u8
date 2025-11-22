@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-https://directly-slobbery.neoistheone.online:9307/v5/PlJIafSH1OHBCqhC_QFE6g/1763021308/14e25c8bbebe932a938b6fbfaddd19aa/HHS7B0nX_06sIRnGtwfigg/1763031988/live/vx-origin/sd-explife_720/chunks.m3u8
+http://103.114.203.129:8080/live/ott168/ott168/52.m3u8
